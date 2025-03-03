@@ -11,25 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Tech in Computer Science, Maharshi Dayanand University, Present
-
-Work experience
-======
-* Jan 2023 - Aug 2023: Machine Learning Intern
-  * AICTE & Edunet Foundation(in collaboration with IBM Skillsbuild) 
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* B.Tech in Computer Science, Maharshi Dayanand University, Present  
 
 
 Work Experience
