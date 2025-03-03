@@ -13,7 +13,7 @@ title                    : "Vivek Chauhan / AI Research Portfolio"
 title_separator          : "-"
 name                     : &name "Vivek Chauhan"
 description              : &description "Computer Science student specializing in AI/ML with research focus on Large Language Models, Multilingual NLP, and Artificial Superintelligence. Experienced in developing AI solutions using PyTorch, Transformers, and advanced fine-tuning techniques. Currently working on multilingual LLM evaluation and long-context understanding at Cohere For AI."
-url                      : "https://VivekChauhan05.github.io""  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://VivekChauhan05.github.io"  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "VivekChauhan05/VivekChauhan05.github.io"
 
